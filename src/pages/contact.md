@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contato
 hide_title: false
 sections:
   - section_id: contact-form
@@ -10,31 +10,30 @@ sections:
     form_fields:
       - type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nome
+        default_value: Seu Nome
         is_required: true
       - type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Seu Email
         is_required: true
       - type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Assunto
+        default_value: Selecione uma opção
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Contato
+          - Erro no site
+          - Outro
       - type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensagem
+        default_value: Sua Mensagem
       - type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entendo que este formulário está armazenando minhas informações enviadas para que eu possa ser respondido.
+    submit_label: Enviar Mensagem
 template: advanced
 ---

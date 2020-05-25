@@ -4,28 +4,24 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: "Oi, eu sou o Christian."
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Bem-vindo ao meu blog. Aqui eu escrevo sobre a minha jornada no mundo da programação, processo de aprendizado e reflexões sobre a carreira de desenvolvedor.
   - section_id: about
     type: section_content
-    title: About
+    title: Sobre mim
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Atualmente cursando o último ano de Análise e Desenvolvimento de Sistemas, e me aprofundando nos estudos de Desenvolvimento Web nas tecnologias React e Node.js. Também me aventurando no mobile com React Native. Possuo conhecimento em PHP, Python e banco de dados relacionais, bem como nas tecnologias do ambiente web.
     actions:
-      - label: Contact Me
+      - label: Contato
         url: /contact
         type: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Postagens Recentes
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Mais postagens
         url: blog/index.html
         type: button
 template: advanced
