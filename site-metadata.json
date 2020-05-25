@@ -1,74 +1,90 @@
 {
-    "description": "Personal blogging theme for Stackbit",
-    "layout_style": "overflow",
-    "palette": "blue",
-    "header": {
-        "title": "Christian Toledo",
-        "tagline": "Header Tagline",
-        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--7925JaaA--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/393574/ff764043-2685-4d81-b5f3-9e8ffcda3fb3.jpg",
-        "background": "dark",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "type": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog/",
-                "type": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "type": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "type": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "type": "link"
-            }
-        ],
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/christian_tld",
-                "type": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/christian_tld",
-                "type": "icon",
-                "icon_class": "fa-dev",
-                "new_window": true
-            }
-        ]
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "type": "link",
-                "new_window": true
-            },
-            {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
-                "new_window": true,
-                "type": "link"
-            }
-        ]
-    },
-    "title": "Stackbit Fresh Theme"
+  "description": "Blog pessoal",
+  "layout_style": "overflow",
+  "palette": "blue",
+  "header": {
+    "title": "Christian Toledo",
+    "tagline": "Header Tagline",
+    "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--7925JaaA--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/393574/ff764043-2685-4d81-b5f3-9e8ffcda3fb3.jpg",
+    "background": "dark",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/",
+        "type": "link"
+      },
+      {
+        "label": "Blog",
+        "url": "/blog/",
+        "type": "link"
+      },
+      {
+        "label": "Sobre Mim",
+        "url": "/about/",
+        "type": "link"
+      },
+      {
+        "label": "Contato",
+        "url": "/contact/",
+        "type": "link"
+      }
+    ],
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/christian_tld",
+        "type": "icon",
+        "icon_class": "fa-twitter",
+        "new_window": true
+      },
+      {
+        "label": "DEV",
+        "url": "https://dev.to/christiantld",
+        "type": "icon",
+        "icon_class": "fa-dev",
+        "new_window": true
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/christiantld/",
+        "type": "icon",
+        "icon_class": "fa-linkedin",
+        "new_window": true
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/christiantld",
+        "type": "icon",
+        "icon_class": "fa-github",
+        "new_window": true
+      },
+      {
+        "label": "Twitch",
+        "url": "https://www.twitch.tv/christiantld",
+        "type": "icon",
+        "icon_class": "fa-twitch",
+        "new_window": true
+      }
+    ]
+  },
+  "footer": {
+    "content": "&copy; All rights reserved.",
+    "links": [
+      {
+        "label": "Made with Stackbit.",
+        "url": "https://www.stackbit.com",
+        "type": "link",
+        "new_window": true
+      },
+      {
+        "label": "Generated from DEV",
+        "url": "https://dev.to/connecting-with-stackbit",
+        "new_window": true,
+        "type": "link"
+      }
+    ]
+  },
+  "title": "Christian Toledo"
 }

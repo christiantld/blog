@@ -47,7 +47,11 @@ export default class Header extends React.Component {
                 {_.get(
                   this.props,
                   "pageContext.site.siteMetadata.header.tagline"
-                ) && <p className="site-description">Desenvolvedor Web</p>}
+                ) && (
+                  <p className="site-description">
+                    Desenvolvedor Web em constante evolução
+                  </p>
+                )}
               </div>
               {(_.get(
                 this.props,
