@@ -7,7 +7,11 @@ sections:
   - section_id: about
     type: section_content
     content: >-
-      Atualmente cursando o último ano de Análise e Desenvolvimento de Sistemas, e me aprofundando nos estudos de Desenvolvimento Web nas tecnologias React e Node.js. Também me aventurando no mobile com React Native. Possuo conhecimento em PHP, Python e banco de dados relacionais, bem como nas tecnologias do ambiente web.
+      Oi, meu nome é Christian, cuiroso desde pequeno. Estou sempre buscando conhecer algo novo pois acredito que o aprendizado é a chave da constante evolução.<br><br>
+      Atualmente estou cursando o último ano de Análise e Desenvolvimento de Sistemas e me aprofundando nos estudos de Desenvolvimento Web nas tecnologias React e Node.js. Além disso estou também me aventurando no mobile com React Native. <br><br>
+      O Javascript foi a minha primeira linguagem de programação, e apesar de ter passado por outras como PHP, Python e Java, é na Stack Javascript que eu mais me divirto desenvolvendo atualmente. Seja pela sua simplicidade, pela sua versatilidade ou pela comunidade e a constante evolução do seu ecossistema.<br><br>
+      A ideia de criar esse blog surgiu da vontade de compartilhar o conhecimento, criar meu próprio conteúdo, ajudar outras pessoas a crescer na área de programação, e não menos importante, manter um ritmo constante de aprendizado.
+
   - section_id: hard
     type: section_content
     title: Hard Skills
@@ -17,6 +21,18 @@ sections:
     type: section_content
     title: Soft Skills
     content: >-
+      <ul>
+       <li>Trabalho em equipe</li>
+       <li>Adaptabilidade</li>
+       <li>Planejamento</li>
+       <li>Comunicação eficaz</li>
+       <li>Empatia</li>
+       <li>Proatividade</li>
+       <li>Flexibilidade</li>
+       <li>Colaboração</li>
+       <li>Orientação para resultados</li>
+       <li>Resolução de problemas</li>
+      </ul>
 
     actions:
       - label: Contato

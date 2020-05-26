@@ -56,6 +56,11 @@
     object-fit: cover;
     height: 45px;
     width: 45px;
+    transition: transform 0.4s;
+  }
+
+  .avatar:hover {
+    transform: scale(1.2);
   }
 }
 

@@ -40,6 +40,12 @@
     transform: translateY(0);
     transition: transform 0.2s ease-in;
   }
+
+  ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  }
 }
 
 .block-title {
