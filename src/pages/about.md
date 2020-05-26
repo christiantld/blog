@@ -1,5 +1,5 @@
 ---
-title: Sobre mim 👨
+title: Sobre mim 👨‍💻
 hide_title: false
 sections:
   - section_id: hero
@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: Hard Skills
     content: >-
-      <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i><i class="fab fa-sass"></i><i class="fab fa-js"></i> <i class="fab fa-react"></i> <i class="fab fa-node"></i> <i class="fab fa-npm"></i> <i class="fab fa-yarn"></i> <i class="fab fa-docker"></i> <i class="fab fa-git-square"></i></i><i class="fab fa-github"></i> <i class="fab fa-gitlab"></i> <i class="fab fa-linux"></i> <i class="fab fa-ubuntu"></i>
+      <i class="fab fa-html5" title="HTML"></i> <i class="fab fa-css3-alt" title="CSS"></i><i class="fab fa-sass" title="Sass"></i><i class="fab fa-js" title="Javascript"></i> <i class="fab fa-react" title="React"></i> <i class="fab fa-node" title="Node.Js"></i> <i class="fab fa-npm" title="NPM"></i> <i class="fab fa-yarn" title="Yarn"></i> <i class="fab fa-docker" title="Docker"></i> <i class="fab fa-git-square" title="Git"></i><i class="fab fa-github" title="Github"></i> <i class="fab fa-gitlab" title="Gitlab"></i> <i class="fab fa-linux" title="Linux"></i> <i class="fab fa-ubuntu" title="Ubuntu"></i>
   - section_id: soft
     type: section_content
     title: Soft Skills
