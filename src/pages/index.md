@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home 🏠
 hide_title: true
 sections:
   - section_id: hero
@@ -10,7 +10,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: Postagens Recentes
-    posts_number: 4
+    posts_number: 6
     actions:
       - label: Mais postagens
         url: blog/index.html
